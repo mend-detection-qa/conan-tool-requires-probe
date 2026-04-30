@@ -3,7 +3,10 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "versioning" : {
+"conan" : "2.28.1"
+    }
   },
   "scanSettingsSAST": {
     "enableScan": true,
